@@ -74,7 +74,7 @@ Added **place order functionality**:
 ---
  ## 📷 Screenshots
 
- ## Home Page
+ ### Home Page
  
  ## All Restaurants
  
