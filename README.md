@@ -1,4 +1,4 @@
-#  Foodify-repo   {"prompt":"# <span style="color:blue"></span>","size":"1024x1024","n":1,"transparent_background":false}
+#  Foodify-repo  
 
 
 # 🍽️ Foodify – Online Food Ordering System
