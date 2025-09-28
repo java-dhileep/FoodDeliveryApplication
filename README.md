@@ -19,6 +19,31 @@ The project is developed using **HTML, CSS3, JSP, Java, JDBC, Servlets, and MySQ
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="60" height="60"/>
 </p>
+## 📂 Project Phases
+
+### Phase 1
+Created database with 5 main tables: **User, Restaurant, Menu, Orders, OrderItem**.
+
+---
+
+### Phase 2
+Designed **DAO Design Pattern** for all tables with segregated packages:
+
+- POJO classes  
+- DAO Interfaces  
+- DAO Implementations  
+- Launcher classes for inserting data from Java  
+
+---
+
+### Phase 3
+Created servlet to **display all restaurants** and pass the data to **JSP** for showing dynamic restaurant listings.
+
+---
+
+### Phase 4
+Displayed **menus under specific restaurants** with **Add to Cart** buttons.
+
 ## 🚀 How to Run
 
 1. Clone the repository
