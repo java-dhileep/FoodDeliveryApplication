@@ -75,13 +75,17 @@ Added **place order functionality**:
  ## 📷 Screenshots
 
  ### Home Page
- 
+ <img width="1886" height="904" alt="Screenshot 2025-09-24 162116" src="https://github.com/user-attachments/assets/a1add4d7-ee0c-41cf-83b5-008d20618c05" />
+
  ### All Restaurants
- 
+ <img width="1872" height="909" alt="Screenshot 2025-09-24 162143" src="https://github.com/user-attachments/assets/a5695569-ba39-478c-96f8-3b441761c149" />
+
  ### All menu
- 
+ <img width="1887" height="904" alt="Screenshot 2025-09-24 162206" src="https://github.com/user-attachments/assets/934abe18-595f-412c-827c-5ce4106fc75f" />
+
  ### Cart page
- 
+ <img width="1889" height="905" alt="Screenshot 2025-09-24 162258" src="https://github.com/user-attachments/assets/19c1a907-d52b-42f7-9b4c-7c0883f376e3" />
+
 ---
 
 ## See my code using this link👇🏿
