@@ -19,13 +19,11 @@ The project is developed using **HTML, CSS3, JSP, Java, JDBC, Servlets, and MySQ
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="60" height="60"/>
 </p>
-
+---
 ## 📂 Project Phases
 
 ### Phase 1
 Created database with 5 main tables: **User, Restaurant, Menu, Orders, OrderItem**.
-
----
 
 ## Phase 2
 Designed **DAO Design Pattern** for all tables with segregated packages:
@@ -35,12 +33,8 @@ Designed **DAO Design Pattern** for all tables with segregated packages:
 - DAO Implementations  
 - Launcher classes for inserting data from Java  
 
----
-
 ## Phase 3
 Created servlet to **display all restaurants** and pass the data to **JSP** for showing dynamic restaurant listings.
-
----
 
 ## Phase 4
 Displayed **menus under specific restaurants** with **Add to Cart** buttons.
@@ -51,8 +45,6 @@ When user clicks **Add to Cart**, checks if:
 - Cart exists or not  
 - Items are from the same restaurant  
   Allows **increase, decrease, and remove** cart items.  
-
----
 
 ### Phase 6
 Added **place order functionality**:
@@ -65,16 +57,6 @@ Added **place order functionality**:
 * User can view previous orders
 * See ordered menu items
 * Reorder previous orders with one click
-
-
-### 🚀 How to Run
-
-1. Clone the repository
-2. Import into your IDE (Eclipse/IntelliJ)
-3. Configure **Tomcat Server**
-4. Create database and import SQL file
-5. Run on **localhost**
-
 ---
 
 ## ✨ Features
@@ -86,7 +68,19 @@ Added **place order functionality**:
 * 💳 Choose payment mode before placing an order
 * 📜 View **order history** and reorder past items
 * 🔐 Login/Registration validation before checkout
+
 ---
+
+### 🚀 How to Run
+
+1. Clone the repository
+2. Import into your IDE (Eclipse/IntelliJ)
+3. Configure **Tomcat Server**
+4. Create database and import SQL file
+5. Run on **localhost**
+
+
+
 
 ## 🔗 See My Code
 
