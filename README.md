@@ -1,6 +1,6 @@
 # 🍽️ Foodify – Online Food Ordering System
 
-![Foodify Logo](https://raw.githubusercontent.com/jayakanthDeveloper/Foodify/main/logo.png)
+<img width="787" height="780" alt="Screenshot 2025-09-24 160357" src="https://github.com/user-attachments/assets/8c4f1b55-5124-424d-a611-00a080007de4" />
 
 ## 📌 Project Overview
 
