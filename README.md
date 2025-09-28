@@ -19,6 +19,7 @@ The project is developed using **HTML, CSS3, JSP, Java, JDBC, Servlets, and MySQ
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="60" height="60"/>
 </p>
+
 ## 📂 Project Phases
 
 ### Phase 1
