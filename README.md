@@ -72,8 +72,16 @@ Added **place order functionality**:
 * 🔐 Login/Registration validation before checkout
 
 ---
- ### 📷 Screenshots
+ ## 📷 Screenshots
 
+ ## Home Page
+ 
+ ## All Restaurants
+ 
+ ## All menu
+ 
+ ## Cart page
+ 
 ---
 
 ## See my code using this link👇🏿
