@@ -76,11 +76,11 @@ Added **place order functionality**:
 
  ### Home Page
  
- ## All Restaurants
+ ### All Restaurants
  
- ## All menu
+ ### All menu
  
- ## Cart page
+ ### Cart page
  
 ---
 
