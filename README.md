@@ -11,7 +11,7 @@ Foodify is an **online food ordering system** where users can explore restaurant
 The project is developed using **HTML, CSS3, JSP, Java, JDBC, Servlets, and MySQL**, following the **DAO design pattern**.
 
 ---
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
@@ -27,7 +27,7 @@ Created database with 5 main tables: **User, Restaurant, Menu, Orders, OrderItem
 
 ---
 
-### Phase 2
+## Phase 2
 Designed **DAO Design Pattern** for all tables with segregated packages:
 
 - POJO classes  
@@ -37,15 +37,15 @@ Designed **DAO Design Pattern** for all tables with segregated packages:
 
 ---
 
-### Phase 3
+## Phase 3
 Created servlet to **display all restaurants** and pass the data to **JSP** for showing dynamic restaurant listings.
 
 ---
 
-### Phase 4
+## Phase 4
 Displayed **menus under specific restaurants** with **Add to Cart** buttons.
 
-## 🚀 How to Run
+### 🚀 How to Run
 
 1. Clone the repository
 2. Import into your IDE (Eclipse/IntelliJ)
