@@ -72,6 +72,9 @@ Added **place order functionality**:
 * 🔐 Login/Registration validation before checkout
 
 ---
+ ### 📷 Screenshots
+
+---
 
 ## See my code using this link👇🏿
 
