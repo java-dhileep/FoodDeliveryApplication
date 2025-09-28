@@ -78,7 +78,7 @@ Added **place order functionality**:
 👉 [GitHub Repository](https://github.com/jayakanthDeveloper/Foodify)
 
 ---
-### 🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repository
 2. Import into your IDE (Eclipse/IntelliJ)
