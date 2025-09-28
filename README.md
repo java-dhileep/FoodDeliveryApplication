@@ -11,7 +11,14 @@ Foodify is an **online food ordering system** where users can explore restaurant
 The project is developed using **HTML, CSS3, JSP, Java, JDBC, Servlets, and MySQL**, following the **DAO design pattern**.
 
 ---
+## 🛠️ Technologies Used
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="60" height="60"/>
+</p>
 ## 🚀 How to Run
 
 1. Clone the repository
