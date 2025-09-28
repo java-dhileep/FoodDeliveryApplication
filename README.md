@@ -86,7 +86,7 @@ Added **place order functionality**:
 4. Create database and import SQL file
 5. Run on **localhost**
 
-
+---
 ## 📬 Contact
 
 For queries, contact: **[dhileepmca2025@gmail.com](mailto:dhileepmca2025@gmail.com)**
