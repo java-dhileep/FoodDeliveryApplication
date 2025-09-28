@@ -73,6 +73,11 @@ Added **place order functionality**:
 
 ---
 
+## See my code using this link👇🏿
+
+👉 [GitHub Repository](https://github.com/jayakanthDeveloper/Foodify)
+
+---
 ### 🚀 How to Run
 
 1. Clone the repository
@@ -81,14 +86,6 @@ Added **place order functionality**:
 4. Create database and import SQL file
 5. Run on **localhost**
 
-
-
-
-## 🔗 See My Code
-
-👉 [GitHub Repository](https://github.com/jayakanthDeveloper/Foodify)
-
----
 
 ## 📬 Contact
 
