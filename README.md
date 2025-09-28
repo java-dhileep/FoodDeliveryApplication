@@ -1,3 +1,6 @@
+# Foodify-repo
+
+
 # 🍽️ Foodify – Online Food Ordering System
 
 <img width="100" height="100" alt="Screenshot 2025-09-24 160357" src="https://github.com/user-attachments/assets/8c4f1b55-5124-424d-a611-00a080007de4" />
