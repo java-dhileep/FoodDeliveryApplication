@@ -45,6 +45,28 @@ Created servlet to **display all restaurants** and pass the data to **JSP** for 
 ## Phase 4
 Displayed **menus under specific restaurants** with **Add to Cart** buttons.
 
+### Phase 5
+When user clicks **Add to Cart**, checks if:
+
+- Cart exists or not  
+- Items are from the same restaurant  
+  Allows **increase, decrease, and remove** cart items.  
+
+---
+
+### Phase 6
+Added **place order functionality**:
+
+- Requires user **address & payment mode**  
+- Checks if the user is logged in (if not, redirects to login/registration)  
+- Validates and processes the order  
+## 📂 Phase 7 – Order History
+
+* User can view previous orders
+* See ordered menu items
+* Reorder previous orders with one click
+
+
 ### 🚀 How to Run
 
 1. Clone the repository
@@ -64,15 +86,6 @@ Displayed **menus under specific restaurants** with **Add to Cart** buttons.
 * 💳 Choose payment mode before placing an order
 * 📜 View **order history** and reorder past items
 * 🔐 Login/Registration validation before checkout
-
----
-
-## 📂 Phase 7 – Order History
-
-* User can view previous orders
-* See ordered menu items
-* Reorder previous orders with one click
-
 ---
 
 ## 🔗 See My Code
