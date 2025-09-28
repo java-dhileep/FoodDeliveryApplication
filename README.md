@@ -90,7 +90,7 @@ Added **place order functionality**:
 
 ## See my code using this link👇🏿
 
-👉 [GitHub Repository](https://github.com/jayakanthDeveloper/Foodify)
+👉 [GitHub Repository](https://github.com/java-dhileep/FoodDeliveryApplication.git)
 
 ---
 ## 🚀 How to Run
