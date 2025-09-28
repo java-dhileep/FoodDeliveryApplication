@@ -20,9 +20,10 @@ The project is developed using **HTML, CSS3, JSP, Java, JDBC, Servlets, and MySQ
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="60" height="60"/>
 </p>
 ---
+
 ## 📂 Project Phases
 
-### Phase 1
+## Phase 1
 Created database with 5 main tables: **User, Restaurant, Menu, Orders, OrderItem**.
 
 ## Phase 2
@@ -39,19 +40,20 @@ Created servlet to **display all restaurants** and pass the data to **JSP** for 
 ## Phase 4
 Displayed **menus under specific restaurants** with **Add to Cart** buttons.
 
-### Phase 5
+## Phase 5
 When user clicks **Add to Cart**, checks if:
 
 - Cart exists or not  
 - Items are from the same restaurant  
   Allows **increase, decrease, and remove** cart items.  
 
-### Phase 6
+## Phase 6
 Added **place order functionality**:
 
 - Requires user **address & payment mode**  
 - Checks if the user is logged in (if not, redirects to login/registration)  
-- Validates and processes the order  
+- Validates and processes the order
+ 
 ## 📂 Phase 7 – Order History
 
 * User can view previous orders
@@ -90,4 +92,4 @@ Added **place order functionality**:
 
 ## 📬 Contact
 
-For queries, contact: **[jayakanthdeveloper@gmail.com](mailto:jayakanthdeveloper@gmail.com)**
+For queries, contact: **[dhileepmca2025@gmail.com](mailto:dhileepmca2025@gmail.com)**
